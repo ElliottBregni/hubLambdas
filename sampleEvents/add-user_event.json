@@ -1,0 +1,14 @@
+{
+    "queryStringParameters":{
+  
+        "franchise":1,
+        "type":1
+ 
+
+    },
+    "pathParameters": {
+        "soultion_id":"FV_TEST",
+        "external_id":"examples.jpg"
+    },
+    "body": {"username":"bregnie2","franchise":"1","password":"password","department":"1","designation":"11"}
+}
